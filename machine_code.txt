@@ -1,0 +1,7 @@
+COPY 2 a#0
+COPY 3 a#1
+COPY 1 i
+COPY 2 c
+COPY 3 b
+ADD a#0 a#i a#2
+WRITE a#2
